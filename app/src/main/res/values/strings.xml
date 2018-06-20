@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ricky &amp; Morty</string>
+    <string name="characters">Personagens</string>
+    <string name="about">Sobre mim</string>
+    <string name="origin">Origem: $1%s</string>
+    <string name="location">Localização Atual: $1%s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
